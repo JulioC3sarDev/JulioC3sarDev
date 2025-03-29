@@ -73,7 +73,7 @@ Com essa imersão, meu objetivo é construir uma base sólida para ingressar com
       align="left" 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioC3sarDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioC3sarDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=11" 
   />
 
 </p>
