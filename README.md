@@ -3,7 +3,7 @@
 **`Desenvolvedor De Software`**
 
 Olá!
-Meu nome é Júlio César e sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Estou começando minha jornada no fascinante mundo da tecnologia e me dedicando a aprofundar meus conhecimentos em linguagem Java,Python,Html e Css
+Meu nome é Júlio César e sou estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital. Estou começando minha jornada no fascinante mundo da tecnologia e me dedicando a aprofundar meus conhecimentos em Desenvolvedor FullStack | Java | JavaScript | Html | Css | React | SQL Server
 
 Com essa imersão, meu objetivo é construir uma base sólida para ingressar com sucesso no mercado de trabalho e evoluir constantemente como profissional especializado em desenvolvimento Back-End e Front-End.
 
