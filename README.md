@@ -51,22 +51,3 @@ Tenho interesse em desenvolvimento **Back-End**, **Front-End** e **Salesforce**,
 
 </p>
 
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JulioC3sarDev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 👀 Visitantes
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JulioC3sarDev&style=for-the-badge&color=0e75b6"/>
-
-</p>
