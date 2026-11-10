@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Júlio César!
+# Olá, eu sou Júlio César!
 
 **Analista de Sistemas Jr. | Salesforce Developer**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital.
+Estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital.
 
 Atualmente desenvolvo soluções no ecossistema **Salesforce** e continuo aprimorando meus conhecimentos em desenvolvimento de software.
 
