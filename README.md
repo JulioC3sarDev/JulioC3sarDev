@@ -1,10 +1,10 @@
-# Olá, eu sou Júlio César!
+# 👋 Olá, eu sou Júlio César!
 
-## Analista de Sistemas Jr. | Salesforce Developer
+**Analista de Sistemas Jr. | Salesforce Developer**
 
-Estudante de Análise e Desenvolvimento de Sistemas pelo Embarque Digital.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital.
 
-Atualmente trabalho no desenvolvendo soluções no ecossistema **Salesforce** e aprimorando meus conhecimentos em desenvolvimento de software.
+Atualmente desenvolvo soluções no ecossistema **Salesforce** e continuo aprimorando meus conhecimentos em desenvolvimento de software.
 
 Tenho interesse em **Back-End**, **Front-End** e **Salesforce**, buscando criar aplicações modernas, escaláveis e de alta qualidade.
 
@@ -20,8 +20,11 @@ Tenho interesse em **Back-End**, **Front-End** e **Salesforce**, buscando criar 
 
 ## 🚀 Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48" alt="Salesforce"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react" alt="Java, HTML5, CSS3, JavaScript e React" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
