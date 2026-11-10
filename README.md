@@ -1,12 +1,12 @@
 # Olá, eu sou Júlio César!
 
-### Analista de Sistemas Jr. | Salesforce Developer
+## Analista de Sistemas Jr. | Salesforce Developer
 
 Estudante de Análise e Desenvolvimento de Sistemas pelo Embarque Digital.
 
-Atualmente trabalho no desenvolvendo soluções no ecossistema **Salesforce** e aprimorando meus conhecimentos em desenvolvimento Full Stack.
+Atualmente trabalho no desenvolvendo soluções no ecossistema **Salesforce** e aprimorando meus conhecimentos em desenvolvimento de software.
 
-Tenho interesse em desenvolvimento **Back-End**, **Front-End** e **Salesforce**, buscando criar aplicações modernas, escaláveis e de alta qualidade.
+Tenho interesse em **Back-End**, **Front-End** e **Salesforce**, buscando criar aplicações modernas, escaláveis e de alta qualidade.
 
 ---
 
@@ -21,11 +21,7 @@ Tenho interesse em desenvolvimento **Back-End**, **Front-End** e **Salesforce**,
 ## 🚀 Tecnologias
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
-
-<img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48"/>
-
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48"/>
-
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react" />
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48" alt="Salesforce"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="48" alt="SQL Server"/>
 </p>
