@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Júlio César!
+# Olá, eu sou Júlio César!
 
-### 💼 Analista de Sistemas Jr. | Salesforce Developer
+### Analista de Sistemas Jr. | Salesforce Developer
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo Embarque Digital.
+Estudante de Análise e Desenvolvimento de Sistemas pelo Embarque Digital.
 
-Atualmente trabalho na **Deloitte**, desenvolvendo soluções no ecossistema **Salesforce** e aprimorando meus conhecimentos em desenvolvimento Full Stack.
+Atualmente trabalho no desenvolvendo soluções no ecossistema **Salesforce** e aprimorando meus conhecimentos em desenvolvimento Full Stack.
 
 Tenho interesse em desenvolvimento **Back-End**, **Front-End** e **Salesforce**, buscando criar aplicações modernas, escaláveis e de alta qualidade.
 
